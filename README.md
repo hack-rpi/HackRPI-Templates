@@ -24,11 +24,12 @@ Start with this if you don't have any experience
 [PyTorch Template](https://github.com/hack-rpi/HackRPI-PyTorch-Template)  
 [Tensorflow Template](https://github.com/hack-rpi/HackRPI-TensorFlow-Template)
 
-## Other useful resources
+## General Resources
+### Learning
 [W3schools](https://www.w3schools.com/)  
 [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
-## Some useful APIs
+## Useful APIs
 ### Education
 [Wolfram Alpha API](https://products.wolframalpha.com/api)  
 [Google Classroom](https://developers.google.com/classroom/reference/rest)  

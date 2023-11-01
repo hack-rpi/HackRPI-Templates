@@ -5,13 +5,15 @@ Here are some templates to get you started for the HackRPI competition:
 ## Website Development
 
 ### Static Website
-Start with this if you don't have any experience
+Start with this if you don't have any experience  
 [Basic Website Template](https://github.com/hack-rpi/HackRPI-Web-Template)
 
 ### Dynamic Website Development
-
+#### Frontend
 [Flask Template](https://github.com/hack-rpi/HackRPI-Flask-Template)  
+#### Backend
 [Vue Template](https://github.com/hack-rpi/HackRPI-Vue-Template)
+
 
 ## C++/Java
 [Basic C++ Template](https://github.com/hack-rpi/HackRPI-Cpp-Template)  
@@ -21,6 +23,10 @@ Start with this if you don't have any experience
 ## AI Related (python)
 [PyTorch Template](https://github.com/hack-rpi/HackRPI-PyTorch-Template)  
 [Tensorflow Template](https://github.com/hack-rpi/HackRPI-TensorFlow-Template)
+
+## Other useful resources
+[W3schools](https://www.w3schools.com/)  
+[Geeks for Geeks](https://www.geeksforgeeks.org/)
 
 ## Some useful APIs
 ### Education

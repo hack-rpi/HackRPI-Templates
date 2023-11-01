@@ -26,7 +26,7 @@ Start with this if you don't have any experience
 
 ## General Resources
 ### Learning
-[W3schools](https://www.w3schools.com/)  
+[W3Schools](https://www.w3schools.com/)  
 [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
 ## Useful APIs

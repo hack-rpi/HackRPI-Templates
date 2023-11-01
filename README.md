@@ -15,10 +15,11 @@ Start with this if you don't have any experience
 [Vue Template](https://github.com/hack-rpi/HackRPI-Vue-Template)
 
 
-## C++/Java
+## C++/Java/Python
 [Basic C++ Template](https://github.com/hack-rpi/HackRPI-Cpp-Template)  
 [Java Template](https://github.com/hack-rpi/HackRPI-Java-Template)  
 [Java Swing Template](https://github.com/hack-rpi/HackRPI-Java-Swing-Template)
+[Pygame Template](https://github.com/hack-rpi/HackRPI-Pygame-Template)
 
 ## AI Related (python)
 [PyTorch Template](https://github.com/hack-rpi/HackRPI-PyTorch-Template)  
